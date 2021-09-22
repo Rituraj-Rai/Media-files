@@ -1,3 +1,2 @@
 # R007
-Config files for my GitHub profile.
-ok ok ok
+Media files for static pages goes here.
